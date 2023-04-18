@@ -8,3 +8,6 @@
 mrdc48/mrdc48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![YouTube
+Badge](https://img.shields.io/badge/-@Mrdc-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://youtu.be/-RGTr0Xfwq0)](https://youtu.be/-RGTr0Xfwq0)
