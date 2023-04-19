@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-I'm @mrdc48. Frontend Architect, Web Developer, Consultant, Tutor and Open Source Enthusiast from Berlin (Germany).
+I'm @mrdc48. Frontend Architect, Web Developer, Consultant, Tutor and Open Source Enthusiast.
   </samp>
   <br/>
 <!---
