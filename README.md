@@ -20,5 +20,4 @@ Badge](https://img.shields.io/badge/-@Mrdc48-c14438?style=flat-square&logo=Gmail
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![ReacJS](https://img.shields.io/static/v1?label=&message=ReacJS&color=F7DF1E&logo=ReacJS&logoColor=FFFFFF)](https://legacy.reactjs.org/) | [![E-commerce-in-ReactJS-By-Mrdc48](https://img.shields.io/static/v1?label=&message=E-commerce-in-ReactJS-By-Mrdc48&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mrdc48/E-commerce-in-ReactJS-By-Mrdc48) |
-label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![www](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/www) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=Mrdc48&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mrdc48/Portfolio) |
