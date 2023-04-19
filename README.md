@@ -18,11 +18,6 @@ Badge](https://img.shields.io/badge/-@Mrdc48-c14438?style=flat-square&logo=Gmail
 
 
 | 💻 **Technology** | 🚀 **Projects** |
-
-
-
-
-| 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![ReacJS](https://img.shields.io/static/v1?label=&message=ReacJS&color=F7DF1E&logo=ReacJS&logoColor=FFFFFF)](https://legacy.reactjs.org/) | [![E-commerce-in-ReactJS-By-Mrdc48](https://img.shields.io/static/v1?label=&message=E-commerce-in-ReactJS-By-Mrdc48&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/mrdc48/E-commerce-in-ReactJS-By-Mrdc48) |
 | [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
