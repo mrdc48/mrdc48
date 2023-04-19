@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-I'm Chetan Dhotre. Frontend Architect, Web Developer, Consultant, Tutor and Open Source Enthusiast.
+I'm Chetan Dhotre. Frontend Architect, Web Developer, Consultant, Tutor and Open Source Enthusiast 🚀 from India.
   </samp>
   <br/>
 <!---
