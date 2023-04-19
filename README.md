@@ -1,4 +1,11 @@
-- 👋 Hi, I am @mrdc48 
+
+# Hi Fellow Devs :wave:
+
+<p align="center">
+  <samp>
+I'm @mrdc48. Frontend Architect, Web Developer, Consultant, Tutor and Open Source Enthusiast from Berlin (Germany).
+  </samp>
+  <br/>
 <!---
 mrdc48/mrdc48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
